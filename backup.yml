@@ -1,8 +1,0 @@
----
-- name: taking backup
-  hosts: all
-  tasks:
-    - name: backup fstab
-      copy:
-        src: /etc/fstab
-        dest: /etc/fstab.bkp11232023
