@@ -1,0 +1,17 @@
+#!/bin/bash
+clear
+echo "what is port number for ssh?"
+sleep 5
+echo "22"
+sleep 3
+echo "correct"
+sleep 3
+clear
+echo "what is port number for http?"
+sleep 5
+echo "80"
+sleep 3
+echo "correct"
+sleep 3
+clear
+echo "Good job"
